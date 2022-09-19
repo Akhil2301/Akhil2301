@@ -34,7 +34,6 @@
       width="40"
       height="40"
     />&nbsp;
-
   <img
     src="https://www.svgrepo.com/show/331488/mongodb.svg"
     title="CSS3"
@@ -47,8 +46,7 @@
   alt="css3"
   width="40"
   height="40"
-/>&nbsp;
-  
+/>&nbsp; 
    
   <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
