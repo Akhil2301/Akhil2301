@@ -1,5 +1,5 @@
 <h3>
-  Hi,<img height="20px" width="20px" src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'/>  I’m Akhil Tilak
+  Hi,<img height="10px" width="10px" src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'/>  I’m Akhil Tilak
   <img
     src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"
     width="30"
