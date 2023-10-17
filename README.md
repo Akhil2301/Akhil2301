@@ -76,7 +76,7 @@ height="40"
     >
   </li>
   <li>
-    <b>- 🌱 Currently an Intern, doing some Projects in MERN</b>
+    <b>- 🌱 Currently am Working, doing some Projects in MERN</b>
   </li>
   <li>
     <b>- 💞️ Looking forward to expand my knowledge in MERN more&more</b>
